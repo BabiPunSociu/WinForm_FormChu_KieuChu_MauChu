@@ -1,0 +1,22 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai9Trang70\Bai9Trang70\bin\Debug\Bai9Trang70.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai9Trang70\Bai9Trang70\bin\Debug\Bai9Trang70.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai9Trang70\Bai9Trang70\bin\Debug\Bai9Trang70.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai9Trang70\Bai9Trang70\obj\Debug\Bai9Trang70.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai9Trang70\Bai9Trang70\obj\Debug\Bai9Trang70.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai9Trang70\Bai9Trang70\obj\Debug\Bai9Trang70.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai9Trang70\Bai9Trang70\obj\Debug\Bai9Trang70.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai9Trang70\Bai9Trang70\obj\Debug\Bai9Trang70.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai9Trang70\Bai9Trang70\obj\Debug\Bai9Trang70.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai9Trang70\Bai9Trang70\obj\Debug\Bai9Trang70.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai9Trang70\Bai9Trang70\obj\Debug\Bai9Trang70.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_FormChu_KieuChu_MauChu\Bai9Trang70\bin\Debug\Bai9Trang70.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_FormChu_KieuChu_MauChu\Bai9Trang70\bin\Debug\Bai9Trang70.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_FormChu_KieuChu_MauChu\Bai9Trang70\bin\Debug\Bai9Trang70.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_FormChu_KieuChu_MauChu\Bai9Trang70\obj\Debug\Bai9Trang70.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_FormChu_KieuChu_MauChu\Bai9Trang70\obj\Debug\Bai9Trang70.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_FormChu_KieuChu_MauChu\Bai9Trang70\obj\Debug\Bai9Trang70.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_FormChu_KieuChu_MauChu\Bai9Trang70\obj\Debug\Bai9Trang70.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_FormChu_KieuChu_MauChu\Bai9Trang70\obj\Debug\Bai9Trang70.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_FormChu_KieuChu_MauChu\Bai9Trang70\obj\Debug\Bai9Trang70.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_FormChu_KieuChu_MauChu\Bai9Trang70\obj\Debug\Bai9Trang70.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_FormChu_KieuChu_MauChu\Bai9Trang70\obj\Debug\Bai9Trang70.pdb
